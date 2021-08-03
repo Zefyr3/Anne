@@ -8,6 +8,6 @@
     Useful and expandible.
 
 Technologies:
-    Speech Recognition
+    Speech Recognition: (Google, Pocketsphinx, Vosk)
     Speech Synthesis
     Some of AI
