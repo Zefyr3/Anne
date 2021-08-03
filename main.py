@@ -1,10 +1,9 @@
 
 # Import libraries
 
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 
 from vosk import Model, KaldiRecognizer
-import os
 import pyaudio
 
 model = Model("en")
